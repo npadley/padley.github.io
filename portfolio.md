@@ -1,8 +1,10 @@
 ---
 layout: page
-title: portfolio
+title: index
 permalink: /portfolio/
+published: true
 ---
+
 
 {% for project in site.portfolio %}
 
