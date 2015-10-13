@@ -27,7 +27,7 @@ collections:
     permalink: /poetry/:path/
 
 prose:
-  rooturl: '_posts'
+  rooturl: '/'
   siteurl: 'http://padley.github.io/'
   relativeLinks: 'http://padley.github.io/links.jsonp'
   media: 'img'
