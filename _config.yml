@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
 baseurl:  #
 url:  http://padley.github.io/
-twitter_username: nickpadley
+twitter_username: nickpadley,'CNAME'
 github_username:  npadley
 exclude: [vendor]
 
@@ -28,7 +28,7 @@ collections:
     permalink: /poetry/:path/
 
 prose:
-  ignore: ['_config.yml','.gitignore','/_includes','_layouts','_sass','Gemfile','Gemfile.lock']
+  ignore: ['_config.yml','.gitignore','/_includes','_layouts','_sass','Gemfile','Gemfile.lock','CNAME']
   siteurl: 'http://padley.gihub.io/'
   media: 'img'
   metadata:
