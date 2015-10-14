@@ -28,7 +28,7 @@ collections:
     permalink: /poetry/:path/
 
 prose:
-  ignore: ['_config.yml','.gitignore','/_includes','_layouts','_sass']
+  ignore: ['_config.yml','.gitignore','/_includes','_layouts','_sass','Gemfile','Gemfile.lock']
   siteurl: 'http://padley.gihub.io/'
   media: 'img'
   metadata:
