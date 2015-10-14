@@ -1,7 +1,5 @@
 ---
-layout: page
-title: index
-permalink: /portfolio/
+layout: default
 published: true
 ---
 
@@ -14,7 +12,7 @@ published: true
     <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
         {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
+        <div class="thumbnail image" style="background-image: url({{ project.img }});"></div>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    

@@ -27,11 +27,11 @@ collections:
     permalink: /poetry/:path/
 
 prose:
-  rooturl: ''
-  siteurl: 'http://nickpadley.com/'
+  rooturl: '_portfolio'
+  siteurl: 'http://padley.gihub.io/'
   media: 'media'
   metadata:
-    _posts:
+    _portfolio:
       - name: "layout"
         field:
           element: "hidden"
@@ -41,8 +41,18 @@ prose:
           element: "text"
           label: "Title"
           value: ""
-      - name: "comments"
+      - name: "description"
         field:
-          element: "checkbox"
-          label: "Allow comments?"
-          value: "true"
+          element: "text"
+          label: "Description"
+          value: ""
+      - name: "img"
+        field:
+          element: "text"
+          label: "Linking Image"
+          value: ""
+      - name: "redirect"
+        field:
+          element: "text"
+          label: "URL to Redirect"
+          value: ""
