@@ -7,6 +7,7 @@ baseurl:  #
 url:  http://padley.github.io/
 twitter_username: nickpadley
 github_username:  npadley
+exclude: [vendor]
 
 # Build settings
 markdown: kramdown
