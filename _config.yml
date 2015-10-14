@@ -27,9 +27,9 @@ collections:
     permalink: /poetry/:path/
 
 prose:
-  rooturl: '_portfolio'
+  ignore: ['_config.yml']
   siteurl: 'http://padley.gihub.io/'
-  media: 'media'
+  media: 'img'
   metadata:
     _portfolio:
       - name: "layout"
