@@ -14,7 +14,7 @@ method="POST">
   <input type="email" name="email" placeholder="Your Email"><br />
   <input type="text" name="name" placeholder="Your Name"><br />
   <input type="url" name="url" placeholder="Your Website"><br />
-  <input type="textarea" name="message" placeholder="Your Message"><br />
+  <textarea name="message" placeholder="Your Message"></textarea><br />
   <input type="hidden" name="utf8" value="✓">
   <button type="submit">Submit</button>
 </form>
