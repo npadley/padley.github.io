@@ -5,9 +5,8 @@ permalink: /about/
 published: true
 ---
 
-Welcome to the Padley family homepage. Below, you can find a few ways to find us via social media.
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+Welcome to the Padley family homepage. Below, you can find a few ways to find us via social media.
 
 <br/>
 <hr/>
