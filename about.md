@@ -5,7 +5,6 @@ permalink: /about/
 published: true
 ---
 
-# About the Padley Family
 
 Welcome to the Padley family homepage. Below, you can find a few ways to find us via social media.
 
