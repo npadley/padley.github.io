@@ -3,7 +3,7 @@ layout: post
 description: ""
 img: img/bts.jpg
 redirect: "http://inbetweensundays.com"
-published: false
+published: true
 title: In Between Sundays
 ---
 
