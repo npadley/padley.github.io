@@ -11,10 +11,6 @@ github_username:  npadley
 # Plugins 
 gems: [jekyll-paginate]
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-
 # Pagination
 paginate: 15
 paginate_path: "/blog/page:num/"
