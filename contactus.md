@@ -7,7 +7,7 @@ published: true
 
 
 
-<p>Interested in getting in touch?</p>
+<p>Interested in getting in touch? We would love to hear from you.</p>
 
 <form accept-charset="UTF-8" action="https://formkeep.com/f/5a4f58ae6ffd"
 method="POST">
