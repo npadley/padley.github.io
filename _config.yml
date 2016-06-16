@@ -12,7 +12,7 @@ github_username:  npadley
 gems: [jekyll-paginate]
 
 
-exclude: [Gemfile, Gemfile.lock]
+exclude: [Gemfile, Gemfile.lock, vendor]
 
 # Pagination
 paginate: 15
