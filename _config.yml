@@ -9,7 +9,7 @@ twitter_username: nickpadley,'CNAME'
 github_username:  npadley
 
 # Plugins 
-# gems: 
+gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
