@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /thanks/
-published: true
+published: false
 ---
 # Thanks for Contacting Us!
 
