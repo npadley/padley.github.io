@@ -4,7 +4,7 @@ email: nick@nickpadley.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
 baseurl:  #
-url:  http://padley.github.io/
+url:  http://padley.com
 twitter_username: nickpadley,'CNAME'
 github_username:  npadley
 
